@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "819423558480",
+    "firebase_url": "https://fir-authapp-97ae9.firebaseio.com",
+    "project_id": "fir-authapp-97ae9",
+    "storage_bucket": "fir-authapp-97ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819423558480:android:4f353d7625ecbb57",
+        "android_client_info": {
+          "package_name": "uk.co.aminlive.kamil.userregisterationwithsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819423558480-kga6jhgfe643cl65obcqbjrcb4pmfv4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4apLjutYrvAGaCsR0GhfUI2akib4IiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
